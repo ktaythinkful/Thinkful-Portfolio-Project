@@ -1,2 +1,2 @@
-# Thinkful-Portfolio-Project
-Portfolio Project
+# Thinkful Portfolio Project
+ Portfolio Project
